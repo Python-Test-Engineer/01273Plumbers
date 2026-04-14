@@ -44,8 +44,8 @@ When editing content, keep these facts consistent across `index.html`, the JSON-
 - Phone: 07415 619 793 / +44 7415 619793
 - Email: iwswordpress@gmail.com
 - Address: 37C New England Road, Brighton, BN1 4GG
-- Hours: Mon–Fri 08:00–17:00
-- Pricing: £75 + parts (small jobs), £135 + parts (Saniflo)
+- Hours: Mon–Fri 08:00–15:00
+- Pricing: £70 + parts (taps), £85 + parts (toilets), £145 + parts (Saniflo), £60 minimum charge
 - Status: sole trader, NOT VAT registered
 
 ## Previewing
