@@ -19,7 +19,7 @@ No build system, no package manager, no dependencies. Everything is plain HTML, 
 
 ## Architecture
 
-Single-page layout. Navigation links (`#home`, `#hours`, `#about`, `#services`, `#saniflo-guide`, `#contact`) scroll to named sections within `index.html`. The sticky header offset is controlled by `--header-offset: 88px` in CSS and matched by `scroll-padding-top` on `<html>` and `scroll-margin-top` on each section.
+Single-page layout. Navigation links (`#home`, `#process`, `#pricing`, `#bio`, `#services`, `#contact`) scroll to named sections within `index.html`. The sticky header offset is controlled by `--header-offset: 88px` in CSS and matched by `scroll-padding-top` on `<html>` and `scroll-margin-top` on each section.
 
 The only JavaScript is an inline hamburger-menu toggle at the bottom of `<body>` — no frameworks, no modules.
 
